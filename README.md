@@ -17,6 +17,7 @@
 
 ### Test
  + Run ``python test_tracking.py --data_dir="your dataset path" -save_root_dir="your checkpoint path" --model="which checkpoint"``
+ + You can access the trained [model](https://drive.google.com/file/d/1KpCit2XgEaKWpT41ZEDsRiPLyjpCXEsw/view?usp=sharing)
 
 ### Acknowledgment
 This project is based on [P2B](https://github.com/HaozheQi/P2B), [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), and [LIDAR_SOT](https://github.com/TuSimple/LiDAR_SOT).
