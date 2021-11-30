@@ -19,4 +19,4 @@
  + Run ``python test_tracking.py --data_dir="your dataset path" -save_root_dir="your checkpoint path" --model="which checkpoint"``
 
 ### Acknowledgment
-This project is based on [P2B](https://github.com/HaozheQi/P2B) and [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
+This project is based on [P2B](https://github.com/HaozheQi/P2B), [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), and [LIDAR_SOT](https://github.com/TuSimple/LiDAR_SOT).
