@@ -7,6 +7,11 @@
  + Pointnet++: ``python setup.py install``
  + RoIAware_Pool3D: ``cd ./roiaware_pool3d ``, then ``python setup.py develop``
 
+### Dataset
+ + [KITTI](http://www.cvlibs.net/download.php?file=data_tracking_velodyne.zip;http://www.cvlibs.net/download.php?file=data_tracking_calib.zip;http://www.cvlibs.net/download.php?file=data_tracking_label_2.zip)
+ + [Pandaset](https://pandaset.org/)
+ + [Waymo](https://github.com/TuSimple/LiDAR_SOT) The LIDAR_SOT is an evaluation benchmark based on the waymo validation set.
+
 ### Train 
  + Run ``python train_tracking_eval.py --data_dir="your dataset path" --dataSize=24``
 
